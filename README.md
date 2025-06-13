@@ -15,5 +15,5 @@ evaluate the semantic similarity between students’ answers and the correct ans
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](screenshots/screenshot1.png)
+![Dashboard Screenshot](screenshots/Screenshot1.png)
 
